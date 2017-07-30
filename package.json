@@ -1,0 +1,23 @@
+{
+  "name": "buyersgohappy",
+  "version": "1.0.0",
+  "description": "This is just a demo file for buyersgohappy.com not for public use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"repository": {
+    "type": "git",
+    "url": "https://github.com/diveshpanwar/buyersgohappy.git"
+  },
+"homepage": "https://github.com/diveshpanwar/buyersgohappy/",
+  "author": "divesh panwar",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-minifier": "^0.2.2",
+    "jshint": "^2.9.5"
+  }
+}
